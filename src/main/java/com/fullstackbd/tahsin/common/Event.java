@@ -5,3 +5,4 @@ public interface Event {
     String getEventId();
     String getCreatedAt();
 }
+
